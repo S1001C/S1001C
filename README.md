@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [SHEKHAR CHOUDHARY] 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
@@ -41,7 +41,7 @@ I am a 3rd-year Computer Science student passionate about developing innovative 
 
 ## 💼 Resume
 
-You can view my resume [here](link-to-your-resume).
+You can view my resume [here](-to-your-reslinkume).
 
 ## 📫 How to reach me
 
