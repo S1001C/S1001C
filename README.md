@@ -25,13 +25,36 @@ I am a 3rd-year Computer Science student passionate about developing innovative 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=S1001C&show_icons=true&theme=radical)
 
 ## 🔭 Current Projects
 
-1. **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project and what technologies you are using.
-2. **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project and what technologies you are using.
-3. **[Project Name](https://github.com/yourusername/project-repo)**: Brief description of the project and what technologies you are using.
+1. **[Note Editor](https://github.com/S1001C/PROJECTS/tree/main/notesapp)**: Project: Note Editor
+Description:
+Developed a web-based note editor that allows users to write, edit, and save notes on any topic. The note editor features a user-friendly interface, rich text formatting options, and persistent storage for notes.
+
+Technologies Used:
+
+HTML
+CSS
+JavaScript
+2. **[Weather Application](https://github.com/S1001C/PROJECTS/tree/main/weather%20app)**: Project: Weather Application
+Description:
+Developed a dynamic weather application that provides real-time weather updates and forecasts for any location. The application features a clean, responsive design and allows users to search for current weather conditions, including temperature, wind speed, and air pressure.
+
+Tech Stack:
+
+HTML
+CSS
+JavaScript
+3. **[TodoList](https://github.com/S1001C/PROJECTS/tree/main/todolist)**:Description:
+Created an interactive to-do list application that helps users manage their tasks efficiently. The application allows users to add, edit, and delete tasks, with features for marking tasks as complete and organizing tasks by priority.
+
+Tech Stack:
+
+HTML
+CSS
+JavaScript
 
 ## 🌱 Currently Learning
 
@@ -45,8 +68,8 @@ You can view my resume [here](-to-your-reslinkume).
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/-your.email@example.com-05122A?style=flat&logo=gmail)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-shekharchd12@gmail.com-05122A?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/shekhar-choudhary-a904b6272/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=internet-explorer)](https://your-portfolio-site.com)
 
 ## 📄 Certifications
@@ -56,10 +79,10 @@ You can view my resume [here](-to-your-reslinkume).
 
 ## ⚡ Fun Fact
 
-I love solving puzzles and playing chess in my free time!
+I love solving puzzles and playing football in my free time!
 
 ## 📚 Education
 
-- **University Name**
+- **Chandigarh University**
   - Bachelor of Science in Computer Science
-  - Expected Graduation: Month, Year
+  - Expected Graduation: May, 2026
