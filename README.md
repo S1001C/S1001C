@@ -1,4 +1,4 @@
-# Hello, I'm [Shekhar Choudhary] 👋
+# Hello, I'm Shekhar Choudhary 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=S1001C&color=blue)
 
