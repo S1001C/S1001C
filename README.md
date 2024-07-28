@@ -1,6 +1,6 @@
 # Hello, I'm [SHEKHAR CHOUDHARY] 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=S1001C&color=blue)
 
 ## 🚀 About Me
 
