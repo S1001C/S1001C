@@ -40,9 +40,9 @@ I am a 3rd-year Computer Science student passionate about developing innovative 
 
 ## 🌱 Currently Learning
 
-- Advanced React and Redux
-- Data Structures and Algorithms
-- Cloud Computing with AWS
+- learning new things
+- learning advance backend
+- learning system desgin
 
 ## 💼 Resume
 
