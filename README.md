@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a 3rd-year Computer Science student passionate about developing innovative software solutions. I enjoy exploring new technologies, learning new skills, and applying them to real-world problems. Currently, I am working on several projects to enhance my portfolio and prepare for my future career in software development.
+I am a Computer Science graduate student passionate about developing innovative software solutions. I enjoy exploring new technologies, learning new skills, and applying them to real-world problems. Currently, I am working on several projects to enhance my portfolio and prepare for my future career in software development.
 
 ## 🔧 Technologies & Tools
 
@@ -46,18 +46,13 @@ I am a 3rd-year Computer Science student passionate about developing innovative 
 
 ## 💼 Resume
 
-You can view my resume [here](link-to-your-resume).
+You can view my resume [here](link-).
 
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/-shekharchd12@gmail.com-05122A?style=flat&logo=gmail)](mailto:shekharchd12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/shekhar-choudhary-a904b6272/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=internet-explorer)](https://your-portfolio-site.com)
-
-## 📄 Certifications
-
-- [Certification Name](link-to-certificate)
-- [Certification Name](link-to-certificate)
 
 ## ⚡ Fun Fact
 
